@@ -3,6 +3,7 @@
 body {
     margin-top: 20vh;
     font-size: larger;
+    font-family: cursive;
     display: flex;
     flex-direction: column;
     align-content: center;
@@ -19,6 +20,11 @@ body {
 #conteiner input,
 button {
     margin: 0;
+    border-radius: 25px;
+}
+
+button{
+    background-color: ;
 }
 
 h2 {
@@ -32,4 +38,5 @@ input {
 
 table {
     background-color: #ffffffb7;
+}
 }
